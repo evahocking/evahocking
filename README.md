@@ -2,7 +2,7 @@
 
 I am currently studying Computer Science and Robotics at UCF.
 
-- 🌱 Learning: Full-stack development and OpenCV
+- 🌱 Learning: Full-stack development, OpenCV, Arduino
 - 💻 Languages: Java, JavaScript, Python, C, C++, SQL, Assembly
 
 
